@@ -3015,16 +3015,17 @@ input, select, textarea {
 
 		.spotlight .image {
 			display: inline-block;
-			margin-left: 4em;
+			margin-left: 3em;
 			padding: 0.65em;
-			border-radius: 100%;
+			/* border-radius: 100%; */
 			border: solid 1px;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+				/* border-radius: 100%; */
 				width: 16em;
+				height: 16em;
 			}
 
 		@media screen and (max-width: 980px) {
