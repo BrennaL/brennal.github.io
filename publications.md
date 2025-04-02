@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Selected Publications
+title: Publications
 nav_title: Publications
 permalink: /publications/
 ---
 
 
-## Full Papers
+## Selected Full Papers
 1. [A Comparative Analysis of Information Gathering by Chatbots, Questionnaires, and Humans in Clinical Pre-Consultation](https://doi.org/10.1145/37065983713613).   
  <span style="font-size: 0.9em;">__Brenna Li__, Saba Tauseef, Khai Truong, Alex Mariakakis.    
 *In Proceedings of the 2025 ACM Conference on Human Factors in Computing Systems (CHI)*. To appear April 2025.</span>[ <i class="fas fa-file-pdf"></i>](/assets/pubs/comparative_li_2025.pdf)
@@ -33,7 +33,7 @@ permalink: /publications/
 <span style="font-size: 0.9em; color: green;"><i class="fa-solid fa-award"></i> Best Paper Honorable Mention (Top 5%) </span>[<i class="fas fa-file-pdf"></i>](/assets/pubs/digital_scribes_li_2021.pdf)
  
 
-## Short Papers and Extended Abstracts
+## Selected Short Papers and Extended Abstracts
 
 1. [Physicians' Lived Experience with AI Scribes](https://doi.org/10.1145/3411764.3445172).  
 <span style="font-size: 0.9em;">Nina Huang<sup>\*</sup>, Katherine Jelich<sup>\*</sup>, **Brenna Li** , Khai Truong, and Alex Mariakakis.  

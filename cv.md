@@ -8,30 +8,26 @@ permalink: /cv/
 
 [Download Full CV (PDF)](/assets/cv.pdf)
 
-## Education
-- PhD in [Field], [University], [Year]
-- MS in [Field], [University], [Year]
-- BS in [Field], [University], [Year]
+<!-- ## Education
+- PhD in Computer Science, University of Toronto, 2025 Expected
+- MS in Computer Science, University of Toronto, 2020
+- BS in Integrated Sciences (Computer Science, Neuroscience, Human Physiology), University of British Columbia, 2017
+
+## Awards and Honors
+- ACM CHI Doctoral Colloquium, 2024
+- NSERC CGS D, 2022 - 2025
+
 
 ## Professional Experience
 ### [Current Position]
-[Institution], [Year-Present]
-- Responsibility 1
-- Responsibility 2
+University of Toronto, [2018-Present]
+- Teaching Assistant (CSC318, CSC207, CSC207)
+- Graduate Application Reviewer
 
 ### [Previous Position]
-[Institution], [Years]
+Google - Health, 2023
 - Achievement 1
-- Achievement 2
+- Achievement 2 -->
 
-## Awards and Honors
-- Award 1, [Year]
-- Award 2, [Year]
 
-## Skills
-- Skill Category 1
-  - Skill A
-  - Skill B
-- Skill Category 2
-  - Skill C
-  - Skill D
+

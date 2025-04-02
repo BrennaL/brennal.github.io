@@ -4,14 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-# Research
+Below is a list of research areas I have worked in.
 
-## Current Projects
-
-### Project 1
+## Clinical Pre-consultation Agents
 Description of your current research project, methodology, and goals.
 
-### Project 2
+## AI Ambient Scribes
 Description of another ongoing research project.
 
 ## Research Areas
@@ -19,5 +17,3 @@ Description of another ongoing research project.
 - Area 2: Brief description
 - Area 3: Brief description
 
-## Lab/Research Group
-Information about your research group, lab members, or collaborators.
