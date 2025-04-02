@@ -1,0 +1,111 @@
+---
+---
+@import "minima";
+
+// Variables
+$content-width: 100%;
+$spacing-unit: 30px;
+
+// Base styles
+.wrapper {
+  max-width: 100%;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.site-header {
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  position: relative;
+}
+
+// Layout
+.row {
+  display: flex;
+  gap: $spacing-unit;
+}
+
+.col-sidebar {
+  flex: 0 0 250px;
+}
+
+.col-main {
+  flex: 1;
+  padding: $spacing-unit;
+}
+
+// Profile section
+.profile-container {
+  position: sticky;
+  top: $spacing-unit;
+  text-align: center;
+  margin-bottom: $spacing-unit;
+  padding: $spacing-unit / 2;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: $spacing-unit / 2;
+  border: 3px solid $grey-color-dark;
+  object-fit: cover;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
+}
+
+.social-icon {
+  color: $grey-color-dark;
+  font-size: 1.5em;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: $grey-color;
+    text-decoration: none;
+  }
+}
+
+// Content styling
+.section {
+  margin-bottom: $spacing-unit * 2;
+}
+
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: $spacing-unit;
+  margin: $spacing-unit 0;
+}
+
+.hobby-item {
+  text-align: center;
+  i {
+    font-size: 2em;
+    margin-bottom: $spacing-unit / 2;
+    color: $grey-color-dark;
+  }
+}
+
+// Responsive design
+@media screen and (max-width: $on-palm) {
+  .row {
+    flex-direction: column;
+  }
+  
+  .col-sidebar {
+    flex: 0 0 auto;
+  }
+  
+  .profile-container {
+    position: static;
+  }
+}

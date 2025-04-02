@@ -1,0 +1,50 @@
+// Base layout
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.page-content {
+  flex: 1;
+  padding-bottom: 2em;
+}
+
+.wrapper {
+  max-width: 100%;
+  padding: 0 15px;
+  @media (min-width: $tablet) {
+    padding: 0 30px;
+  }
+}
+
+// Layout
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  
+  @media (min-width: $tablet) {
+    flex-direction: row;
+    gap: 2em;
+  }
+}
+
+.col-sidebar {
+  width: 100%;
+  
+  @media (min-width: $tablet) {
+    flex: 0 0 250px;
+  }
+}
+
+.col-main {
+  width: 100%;
+  padding: 1em;
+  
+  @media (min-width: $tablet) {
+    flex: 1;
+    padding: 2em;
+  }
+}
