@@ -159,37 +159,38 @@ body {
   position: relative;
   
   @media screen and (max-width: 768px) {
-    position: absolute;
-    top: 10px;
+    position: relative;
+    top: 15px;
     right: 15px;
     background-color: white;
     border: 1px solid #e8e8e8;
     border-radius: 5px;
-    text-align: right;
+    text-align: center;
     
     .menu-icon {
       display: block;
       float: right;
       width: 36px;
       height: 26px;
-      line-height: 0;
-      padding-top: 10px;
+      line-height: 26px;
+      padding-top: 5px;
       text-align: center;
     }
     
     .trigger {
       clear: both;
       display: none;
-      padding: 5px 10px;
+      padding: 5px;
+      width: 100%;
     }
     
-    &:hover .trigger {
+    &:hover .trigger { 
       display: block;
     }
     
     .page-link {
       display: block;
-      padding: 5px 10px;
+      padding: 5px 5px;
       margin: 0;
       
       &:not(:last-child) {
