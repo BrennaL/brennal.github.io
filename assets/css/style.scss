@@ -14,7 +14,7 @@ body {
 
 .page-content {
   flex: 1;
-  padding-bottom: 2em;
+  padding-bottom: 1.5em;
 }
 
 .wrapper {
@@ -45,7 +45,7 @@ body {
   
   .col-main {
     flex: 1;
-    padding: 2em;
+    padding: 4.5em;
   }
 }
 
@@ -66,7 +66,7 @@ body {
   margin: 0 auto 1em;
   border: 3px solid #333;
   object-fit: cover;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(69, 4, 135, 0.1);
   transition: transform 0.3s ease;
   
   &:hover {
@@ -101,11 +101,15 @@ body {
   color: #333;
   font-size: 1.25em;
   transition: color 0.3s ease;
+  text-decoration: #333;
   
   &:hover {
-    color: #666;
+    color: #4104ea;
     text-decoration: none;
   }
+}
+.fa-graduation-cap {
+  color: inherit; 
 }
 
 // Footer
@@ -156,7 +160,7 @@ body {
   
   @media screen and (max-width: 768px) {
     position: absolute;
-    top: 9px;
+    top: 10px;
     right: 15px;
     background-color: white;
     border: 1px solid #e8e8e8;
@@ -193,4 +197,16 @@ body {
       }
     }
   }
+}
+.cv-link {
+  color: #333;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none; /* Optional: removes the underline */
+}
+
+/* Optional: add hover effect */
+.cv-link:hover {
+  color: #4104ea;
+  text-decoration: underline;
 }
