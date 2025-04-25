@@ -35,9 +35,9 @@ permalink: /publications/
 
 ## Selected Short Papers and Extended Abstracts
 
-1. [Physicians' Lived Experience with AI Scribes](https://doi.org/10.1145/3411764.3445172).  
+1. [Physicians' Lived Experience with AI Scribes](/assets/pubs/physicians_lived_experiences_with_ai_scribe.pdf).  
 <span style="font-size: 0.9em;">Nina Huang<sup>\*</sup>, Katherine Jelich<sup>\*</sup>, **Brenna Li** , Khai Truong, and Alex Mariakakis.  
-*In ACM CHI Conference Interactive Health Workshop*. To appear April 2025.</span>[ <i class="fas fa-file-pdf"></i>](/assets/pubs/digital_scribes_li_2021.pdf)     
+*In ACM CHI Conference Interactive Health Workshop*. To appear April 2025.</span>[ <i class="fas fa-file-pdf"></i>](/assets/pubs/physicians_lived_experiences_with_ai_scribe.pdf)     
 <span style="font-size: 0.7em;">*Co-first authors</span>
 
 1. [Designing Conversational Agents to Facilitate Patient-Physician Communication and Clinical Consultation](https://doi.org/10.1145/3613905.3638176).  
