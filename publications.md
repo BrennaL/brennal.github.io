@@ -7,9 +7,9 @@ permalink: /publications/
 
 
 ## Selected Full Papers
-1. [A Comparative Analysis of Information Gathering by Chatbots, Questionnaires, and Humans in Clinical Pre-Consultation](https://doi.org/10.1145/37065983713613).   
+1. [A Comparative Analysis of Information Gathering by Chatbots, Questionnaires, and Humans in Clinical Pre-Consultation](https://dl.acm.org/doi/10.1145/3706598.3713613).   
  <span style="font-size: 0.9em;">__Brenna Li__, Saba Tauseef, Khai Truong, Alex Mariakakis.    
-*In Proceedings of the 2025 ACM Conference on Human Factors in Computing Systems (CHI)*. To appear April 2025.</span>[ <i class="fas fa-file-pdf"></i>](/assets/pubs/comparative_li_2025.pdf)
+*In Proceedings of the 2025 ACM Conference on Human Factors in Computing Systems (CHI)*. April 2025.</span>[ <i class="fas fa-file-pdf"></i>](/assets/pubs/comparative_li_2025.pdf)
 
 1. [Users’ Perspectives on Multimodal Menstrual Tracking Using Consumer Health Devices](https://doi.org/10.1145/3678575).  
 <span style="font-size: 0.9em;">Georgianna Lin, **Brenna Li**, Jin Yi Li, Chloe Zhao, Khai Truong, and Alexander Mariakakis.  

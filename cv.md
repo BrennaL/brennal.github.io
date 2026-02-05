@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-[Download Full CV (PDF)](/assets/cv.pdf)
+[Download Full CV (PDF)](/assets/Brenna_cv_feb26.pdf)
 
 <!-- ## Education
 - PhD in Computer Science, University of Toronto, 2025 Expected
